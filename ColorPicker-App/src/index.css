@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+}
+
+input{
+    margin:5px;
+    width:25px;
+    height: 25px;
+    border-radius: 10px;
+}
+.display{
+    height:50px;
+    
+}
