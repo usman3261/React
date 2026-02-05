@@ -1,0 +1,58 @@
+body{
+    background-color: rgba(0, 0, 0, 0.765);
+}
+.container{
+    text-align: center;
+    color: white;
+}
+button{
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}.add{
+    background-color: green;
+    color: white;
+}
+.add:hover{
+    background-color: rgb(11, 255, 11);
+    color: white;
+    font-weight: bolder;
+}
+
+
+.del{
+    background-color: rgb(183, 9, 9);
+    color: white;
+}
+.del:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    font-weight: bolder;
+}
+.up,.down{
+    background-color: rgba(0, 0, 255, 0.652);
+    color:white
+}
+.up:hover,.down:hover{
+    background-color: blue;
+    color:white;
+    font-weight: bolder;
+}
+li{
+    list-style: none;
+    padding: 10px;
+    margin: 5px;
+    font-weight: bolder;
+    border: 1px solid black;
+}
+input:focus{
+  
+    font-weight: bolder;
+}
+input{
+    background-color: white;
+    color: black;
+    height: 30px;
+
+}
